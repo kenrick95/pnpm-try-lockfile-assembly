@@ -1,0 +1,9 @@
+{
+  "name": "@kenrick95/pnpm-try-lockfile-assembly-a",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^17",
+    "react-dom": "^17"
+  }
+}
